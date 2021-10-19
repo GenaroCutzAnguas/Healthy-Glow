@@ -63,3 +63,7 @@
 |--------| ------ | 
 | Prioridad | Alta |
 | Descripcion | La creación de un nuevo video o contenido a mostrar será uno a la semana. |
+
+# Diagrama de Caso de Uso
+
+![Diagrama de Uso](Imagenes/caso_de_uso.jpg)

@@ -25,5 +25,6 @@ Es una iniciativa de alumnos de 1er semestre para incetivar a nuestros compañer
 * [historias de usuarios](Documentacion/Historias_de_Usuarios.md)
 * [Metodologia y roles](Documentacion/Metodologia_y_roles.md)
 * [Requerimientos](Documentacion/Requerimientos.md)
-* [Contenido a mostrar](Documentacion/Contenido/1ra_Entrevista.md)
+* [Contenido a mostrar](Documentacion/Contenido)
 * [Bitacoras](Documentacion/Bitacoras.md)
+* [Metricas de contribucion individual]()

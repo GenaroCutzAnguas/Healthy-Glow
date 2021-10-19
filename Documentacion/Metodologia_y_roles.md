@@ -22,7 +22,7 @@ Utilizamos la metodologia agil Scrum al ser la que mas se nos adaptaba en la for
 
     * Procura la eliminación de impedimentos para el progreso del Scrum Team.
 
-* **Develop team:** 
+* **Development team:** 
 
     * Leticia Tejero Gamboa
 

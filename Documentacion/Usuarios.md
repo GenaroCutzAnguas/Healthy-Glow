@@ -5,7 +5,7 @@ Universitarios de 1er semestre de la FMAT de la UADY
 
 * Usuarios potenciales
 
-Los Universitarios de la FMAT de la UADY de cualquier grado de licenciatura.
+Los Universitarios de la FMAT de la UADY de cualquier grado y de cualquier licenciatura.
 
 * Usuarios Secundarios
 

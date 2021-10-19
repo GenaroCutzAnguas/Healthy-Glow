@@ -13,3 +13,7 @@ En este proyecto nos enfocamos a motivar a universitarios a comenzar o retomar u
 * No tiene un acceso fácil para aquellos sin experiencia en áreas virtuales.
 
 * No esta dirigida a personas menores a 17 años.
+
+# Creatividad Implementada
+
+La informacion obtenida para la divulgacion sera manejada para un entendimiento coloquial, dando un mensaje mas claro y preciso. Utilizando igualmente tendencias para captar mas la atencion de nuestros usuarios.

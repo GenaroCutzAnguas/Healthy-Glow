@@ -15,12 +15,13 @@
 | RF01 | Crear Contenido |
 |--------| ------ | 
 | Prioridad | Alta |
+|Descripcion | Búsqueda de información fidedigna, creación de guion y dirección del vídeo. |
 
 | RF02 | Facilidad de ejercer |
 |--------| ------ | 
 | Prioridad | Media |
+| Descripcion | Proporciona ejemplos de ejercicios aeróbicos para el usuario. |
 
-| Descripcion Proporciona ejemplos de ejercicios aeróbicos para el usuario. |
 | RF03 | Administrar comentarios de los usuarios |
 |--------| ------ | 
 | Prioridad | Media |

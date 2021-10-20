@@ -19,4 +19,7 @@ Por este medio creamos la encuesta para nuestro proyecto
 > Git y GitHub
 
 Utilizamos GitHub porque nos permite trabajar colaborativamente, esto quiere decir que cada integrante puede opinar, dejar sus comentarios sobre el proyecto, colaborar y contribuir mejorando la información.
-Visual Studio Code
+
+>Visual Studio Code
+
+Se utilizo con la finalidad de tener una mejor visualizacion y manejo del codigo markdown.

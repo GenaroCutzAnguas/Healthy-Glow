@@ -29,4 +29,4 @@ Es una iniciativa de alumnos de 1er semestre para incetivar a nuestros compañer
 * [Requerimientos](Documentacion/Requerimientos.md)
 * [Contenido a mostrar](Documentacion/Contenido)
 * [Bitacoras](Documentacion/Bitacoras.md)
-* [Metricas de contribucion individual](Documentacion/Metricas2)
+* [Metricas de contribucion individual](Documentacion/Metricas2.pdf)

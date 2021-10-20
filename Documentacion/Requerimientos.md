@@ -12,20 +12,20 @@
 
 ## Requerimientos Funcionales
 
-| RF01 | Acceso |
+| RF01 | Crear Contenido |
 |--------| ------ | 
 | Prioridad | Alta |
-| Descripcion | Los usuarios podrán tener el acceso sin necesidad de un perfil en la plataforma. |
+| Búsqueda de información fidedigna, creación de guion y dirección del vídeo. |
 
-| RF02 | Descarga del material |
+| RF02 | Facilidad de ejercer |
 |--------| ------ | 
 | Prioridad | Media |
-| Descripcion | La plataforma permite la descarga de los vídeos con la marca de agua de la aplicación (tiktok) y autor (nuestro nombre de usuario en la aplicación). |
+| Proporciona ejemplos de ejercicios aeróbicos para el usuario. |
 
-| RF03 | Comunicación con los creadores de contenido |
+| RF03 | Administrar comentarios de los usuarios |
 |--------| ------ | 
 | Prioridad | Media |
-| Descripcion | El usuario podrá tener interacción mediante comentarios y mensajería con creadores de contenido. (Develop team) |
+| Descripcion | Leer los comentarios, atender sus dudas y sugerencias, así como sus peticiones (de haberlas). |
 
 | RF04 | Persuasivo |
 |--------| ------ | 
@@ -44,10 +44,10 @@
 | Prioridad | Alta |
 | Descripcion | Le agregaremos tendencias y contenido de calidad que aporte al usuario para que los vídeos lleguen a más audiencia. Al igual que compartir por medio de otras redes sociales nuestro contenido. |
 
-| RNF02 | Hardware |
+| RNF02 | Verificación de contenido |
 |--------| ------ | 
 | Prioridad | Alta |
-| Descripcion | La aplicación usada es compatible con los sistemas operativos Windows 7, 8 y 10, y con MacOs de versiones . Así como con dispositivos iOS (version en adelante) y Android (versión en adelante). |
+| Descripcion | El L.E.F verifica que nuestro contenido es correcto para mostrárselo a los usuarios. |
 
 | RNF03 | Copia de seguridad |
 |--------| ------ | 

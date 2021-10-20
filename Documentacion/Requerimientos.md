@@ -15,13 +15,12 @@
 | RF01 | Crear Contenido |
 |--------| ------ | 
 | Prioridad | Alta |
-| Búsqueda de información fidedigna, creación de guion y dirección del vídeo. |
 
 | RF02 | Facilidad de ejercer |
 |--------| ------ | 
 | Prioridad | Media |
-| Proporciona ejemplos de ejercicios aeróbicos para el usuario. |
 
+| Descripcion Proporciona ejemplos de ejercicios aeróbicos para el usuario. |
 | RF03 | Administrar comentarios de los usuarios |
 |--------| ------ | 
 | Prioridad | Media |
@@ -44,7 +43,7 @@
 | Prioridad | Alta |
 | Descripcion | Le agregaremos tendencias y contenido de calidad que aporte al usuario para que los vídeos lleguen a más audiencia. Al igual que compartir por medio de otras redes sociales nuestro contenido. |
 
-| RNF02 | Verificación de contenido |
+| RNF02 | Verificación de contenido|
 |--------| ------ | 
 | Prioridad | Alta |
 | Descripcion | El L.E.F verifica que nuestro contenido es correcto para mostrárselo a los usuarios. |

@@ -5,9 +5,9 @@ Iniciamos un cuestionario a nuestro compañeros **universitarios** mediante un [
 
 **HISTORIAS DE USUARIO**
 
-**HU01-. Acceso** 
+**HU01-. Contenido** 
 
-**Como** usuario, **quiero** que la plataforma tenga acceso sin pedir información, **para** facilitar el acceso a la plataforma sin la necesidad de crear una cuenta nueva.
+**Como** usuario, **quiero** tener una motivacion para realizar ejercicio, **para** tener una vida mas activa.
 
 **CONDICIONES:**
 

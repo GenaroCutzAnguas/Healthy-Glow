@@ -35,4 +35,4 @@ Es una iniciativa de alumnos de 1er semestre para incetivar a nuestros compañer
 
 * [Presentacion]()
 
-* [Video de presentacion]()
+* [Video de presentacion](https://youtu.be/15jhHwRYauQ)

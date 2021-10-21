@@ -33,6 +33,6 @@ Es una iniciativa de alumnos de 1er semestre para incetivar a nuestros compañer
 
 # Primera entrega
 
-* [Presentacion](Proyecto_healthyGlow_PrimeraEntrega.pdf)
+* [Presentacion](https://alumnosuady-my.sharepoint.com/:p:/g/personal/a21216395_alumnos_uady_mx/EUcN1WqsES9CkDwPkmxQvgMBfA_R4-Nj_6xAf7f8tyi7xQ)
 
 * [Video de presentacion](https://www.youtube.com/watch?v=S1l2323O1bI)

@@ -35,4 +35,4 @@ Es una iniciativa de alumnos de 1er semestre para incetivar a nuestros compañer
 
 * [Presentacion](Proyecto_healthyGlow_PrimeraEntrega.pdf)
 
-* [Video de presentacion](https://youtu.be/15jhHwRYauQ)
+* [Video de presentacion](https://www.youtube.com/watch?v=S1l2323O1bI)

@@ -33,6 +33,6 @@ Es una iniciativa de alumnos de 1er semestre para incetivar a nuestros compañer
 
 # Primera entrega
 
-* [Presentacion]()
+* [Presentacion](Proyecto_healthyGlow_PrimeraEntrega.pdf)
 
 * [Video de presentacion](https://youtu.be/15jhHwRYauQ)

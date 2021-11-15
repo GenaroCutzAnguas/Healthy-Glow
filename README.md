@@ -1,6 +1,6 @@
 # Proyecto Healthy Glow
 
-![Ejercicios aerobicos](deporte-salud-personas.jpg)
+![Ejercicios aerobicos](Logo_Healthy.png)
 
 > # Equipo
 Cruz Inzunza Luis Alejandro

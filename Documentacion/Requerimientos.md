@@ -63,3 +63,18 @@
 |--------| ------ | 
 | Prioridad | Alta |
 | Descripcion | La creación de un nuevo video o contenido a mostrar será uno a la semana. |
+
+| RNF06 | Calidad de video |
+|--------| ------ | 
+| Prioridad | Alta |
+| Descripcion | Se usará el formato de video de 9:16 proporciones y tendrá una calidad mínima de 480px. |
+
+| RNF07 | Connotaciones humorísticas |
+|--------| ------ | 
+| Prioridad | Media |
+| Descripcion | Otorgar momentos de humor en el video para serlo más entretenido. |
+
+| RNF08 | Presentación del estudiante |
+|--------| ------ | 
+| Prioridad | Alta |
+| Descripcion | Presentación del actor como estudiante perteneciente a este instituto (UADY) con el fin de generar empatía. |

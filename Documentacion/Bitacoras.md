@@ -36,3 +36,24 @@ Se revisaron las historias de usuario, se terminó de redactar los requerimiento
 ## Décima reunión 18/10/2021
 Se empezó a subir toda la información que teníamos a GitHub.
 
+## Onceava reunión 25/10/2021
+Nos reunimos para organizar el sprint a través de Monday.com, revisamos la rubrica y hablamos sobre las observaciones de la primera entrega.
+
+## Tercera reunión con el maestro 3/11/2021
+Se habló de los prototipos que ya tenemos hechos como una base, adicionalmente también abordamos la encuesta de satisfacción que nos ayudará a mejorar nuestro contenido. Se trataron dudas acerca de la entrega, como la duración del vídeo y la información que debe contener.
+
+## Doceava reunión 5/11/2021
+Para realizar un video prototipo, designamos quienes van a grabarse haciendo los ejercicios, asimismo recabamos información para nuestras publicaciones.
+
+## Decimatercera reunión 8/11/2021
+Revisamos los videos de ejercicios y la información, empezamos con la edición. 
+
+## Decimacuarta reunión 9/11/2021
+Se terminó el video muestra y se empezó a realizar la presentación final.
+
+## Cuarta reunión con el maestro 10/11/2021
+Hablamos del video muestra, consideramos que nos sirvió para tener en cuenta cuánto tiempo lleva producir un video; asimismo, se nos solicitó definir cuál sería nuestra característica que nos diferencie de los demás videos.
+
+## Decimaquinta reunión 11/11/2021
+Se definió cuál sería nuestro engagement 
+

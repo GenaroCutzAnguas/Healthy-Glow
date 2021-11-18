@@ -1,7 +1,7 @@
 # Proyecto Healthy Glow
 
 > ## Equipo
-Cruz Inzunza Luis Alejandro @Luis-Inzunza 
+Cruz Inzunza Luis Alejandro @ Luis-cruz -inzunza
 
 Carlos Genaro Cutz Anguas @GenaroCutzAnguas 
 

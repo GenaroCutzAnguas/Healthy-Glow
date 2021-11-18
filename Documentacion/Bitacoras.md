@@ -55,5 +55,5 @@ Se terminó el video muestra y se empezó a realizar la presentación final.
 Hablamos del video muestra, consideramos que nos sirvió para tener en cuenta cuánto tiempo lleva producir un video; asimismo, se nos solicitó definir cuál sería nuestra característica que nos diferencie de los demás videos.
 
 ## Decimaquinta reunión 11/11/2021
-Se definió cuál sería nuestro engagement 
+Se definió cuál sería nuestro engagement.
 

@@ -8,7 +8,7 @@ Cruz Inzunza Luis Alejandro
 
 Carlos Genaro Cutz Anguas
 
-Armando Canche Tíntore 
+Armando Canche Tintoré
 
 Leticia Tejero Gamboa 
 

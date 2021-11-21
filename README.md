@@ -49,6 +49,6 @@ Es una iniciativa de alumnos de 1er semestre para incetivar a nuestros compañer
 
 * [Presentacion]()
 
-* [Metricas de contribucion individual]()
+* [Metricas de contribucion individual](metricas_de_cont2.pdf)
 
 * [Video de presentacion](https://youtu.be/EplGZAQU7QQ)

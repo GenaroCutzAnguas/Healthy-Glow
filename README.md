@@ -2,7 +2,7 @@
 
 ![Ejercicios aerobicos](Logo_Healthy.png)
 
-> # Equipo
+# Equipo
 
 [Cruz Inzunza Luis Alejandro](https://github.com/Luis-Inzunza)
 
@@ -51,4 +51,4 @@ Es una iniciativa de alumnos de 1er semestre para incetivar a nuestros compañer
 
 * [Metricas de contribucion individual]()
 
-* [Video de presentacion]()
+* [Video de presentacion](https://youtu.be/EplGZAQU7QQ)

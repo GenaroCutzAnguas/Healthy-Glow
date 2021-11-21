@@ -4,15 +4,15 @@
 
 > # Equipo
 
-[Cruz Inzunza Luis Alejandro](@Luis-Inzunza)
+[Cruz Inzunza Luis Alejandro](https://github.com/Luis-Inzunza)
 
-[Carlos Genaro Cutz Anguas](@GenaroCutzAnguas)
+[Carlos Genaro Cutz Anguas](https://github.com/GenaroCutzAnguas)
 
-[Armando Canche Tintoré](@ReynaldoCoMa)
+[Armando Canche Tintoré](https://github.com/ArmandoCanche)
 
-[Leticia Tejero Gamboa](@LeticiaTejeroGamboa2401) 
+[Leticia Tejero Gamboa](https://github.com/LeticiaTejeroGamboa2401) 
 
-[Reynaldo Cohuo Martin](@ReynaldoCoMa)
+[Reynaldo Cohuo Martin](https://github.com/ReynaldoCoMa)
 
 [Competencias de equipo](Documentacion/Competencias.md)
 

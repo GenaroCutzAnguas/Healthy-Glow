@@ -4,17 +4,17 @@
 
 > # Equipo
 
-Cruz Inzunza Luis Alejandro
+[Cruz Inzunza Luis Alejandro](@Luis-Inzunza)
 
-Carlos Genaro Cutz Anguas
+[Carlos Genaro Cutz Anguas](@GenaroCutzAnguas)
 
-Armando Canche Tintoré
+[Armando Canche Tintoré](@ReynaldoCoMa)
 
-Leticia Tejero Gamboa 
+[Leticia Tejero Gamboa](@LeticiaTejeroGamboa2401) 
 
-Reynaldo Cohuo Martin 
+[Reynaldo Cohuo Martin](@ReynaldoCoMa)
 
-[Competencias de equipo]()
+[Competencias de equipo](Documentacion/Competencias.md)
 
 # Descripcion General
 
@@ -25,23 +25,23 @@ Este repositorio guarda el progreso del proyecto **Healthy Glow** para la materi
 Es una iniciativa de alumnos de 1er semestre para incetivar a nuestros compañeros de FMAT de la UADY a realizar ejercicio y/o actividad física para mejorar su calidad de vida.
 
 # Indice
-* [Objetivos](Documentacion/Objetivo.md)
-* [Usuarios](Documentacion/Usuarios.md)
-* [historias de usuarios](Documentacion/Historias_de_Usuarios.md)
-* [Metodologia y roles](Documentacion/Metodologia_y_roles.md)
-* [Requerimientos](Documentacion/Requerimientos.md)
-* [Diseños]()
-* [Implementación]()
-* [Pruebas y plan de mejoras]()
-* [Contenido a mostrar](Documentacion/Contenido)
+* [Objetivos](Documentacion/1ra_Entrega/Objetivo.md)
+* [Usuarios](Documentacion/1ra_Entrega/Usuarios.md)
+* [historias de usuarios](Documentacion/1ra_Entrega/Historias_de_Usuarios.md)
+* [Metodologia y roles](Documentacion/1ra_Entrega/Metodologia_y_roles.md)
+* [Requerimientos](Documentacion/1ra_Entrega/Requerimientos.md)
+* [Diseños](Documentacion/2ra_Entrega/Disenos/disenos_text.md)
+* [Implementación](Documentacion/2ra_Entrega/Implementacion.md)
+* [Pruebas y plan de mejoras](Documentacion/2ra_Entrega/)
+* [Contenido a mostrar](Documentacion/Introduccion_a_la_informacion.md)
 * [Bitacoras](Documentacion/Bitacoras.md)
 
 
 # Primera entrega
 
-* [Presentacion](Proyecto_HealthyGlow.pdf)
+* [Presentacion](Documentacion/1ra_Entrega/Proyecto_HealthyGlow.pdf)
 
-* [Metricas de contribucion individual](Documentacion/Metricas2.pdf)
+* [Metricas de contribucion individual](Documentacion/1ra_Entrega/Metricas.pdf)
 
 * [Video de presentacion](https://www.youtube.com/watch?v=S1l2323O1bI)
 
